@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Figure\Figure.csproj", "{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "User\User.csproj", "{DDB7215F-1D35-4C13-A93C-5B74132F1923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
