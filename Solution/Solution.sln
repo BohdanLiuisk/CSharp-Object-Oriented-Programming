@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", "{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Figure\Figure.csproj", "{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA526F1D-9A78-44C5-A1D4-FE278E1712A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
