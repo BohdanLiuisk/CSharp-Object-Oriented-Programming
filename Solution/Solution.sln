@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figure", "Figure\Figure.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "User\User.csproj", "{DDB7215F-1D35-4C13-A93C-5B74132F1923}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency Converter", "Currency Converter\Currency Converter.csproj", "{6E261B1A-AF88-42F5-9F02-39FCD88EDFD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDB7215F-1D35-4C13-A93C-5B74132F1923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E261B1A-AF88-42F5-9F02-39FCD88EDFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E261B1A-AF88-42F5-9F02-39FCD88EDFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E261B1A-AF88-42F5-9F02-39FCD88EDFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E261B1A-AF88-42F5-9F02-39FCD88EDFD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
