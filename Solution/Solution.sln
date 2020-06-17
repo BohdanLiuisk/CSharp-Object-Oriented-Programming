@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "FirstApp\Address
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{872615CF-1243-4B11-8CD0-C2E7DD1F0A84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Book\Book.csproj", "{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{872615CF-1243-4B11-8CD0-C2E7DD1F0A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{872615CF-1243-4B11-8CD0-C2E7DD1F0A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{872615CF-1243-4B11-8CD0-C2E7DD1F0A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB5C910-61AF-44CC-A9A5-8E3B03E3941F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
