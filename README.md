@@ -1,1 +1,1 @@
-# CSharp-Object-Oriented-Programming
+# CSharp-Object-Oriented-Programming, Examples of Solved Tasks
