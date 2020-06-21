@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractHandler", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{4BEB668B-A3DB-49FC-955D-1C015DD95610}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{B78B4147-ADA2-4288-B459-BFCA06E500C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{4BEB668B-A3DB-49FC-955D-1C015DD95610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BEB668B-A3DB-49FC-955D-1C015DD95610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BEB668B-A3DB-49FC-955D-1C015DD95610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78B4147-ADA2-4288-B459-BFCA06E500C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78B4147-ADA2-4288-B459-BFCA06E500C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78B4147-ADA2-4288-B459-BFCA06E500C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78B4147-ADA2-4288-B459-BFCA06E500C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
