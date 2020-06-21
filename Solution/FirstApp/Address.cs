@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Address
+﻿namespace Address
 {
     class Address
     {
