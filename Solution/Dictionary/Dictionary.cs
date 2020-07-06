@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Dictionary
+﻿namespace Dictionary
 {
     class Dictionary
     {
