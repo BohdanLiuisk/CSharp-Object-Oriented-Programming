@@ -25,7 +25,6 @@ namespace DelegationExample
         {
             FindAndReplaceManager.FindNext("Hello");
 
-            // Delay.
             Console.ReadKey();
         }
     }
