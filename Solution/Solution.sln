@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegationExample", "Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotebookStruct", "NotebookStruct\NotebookStruct.csproj", "{62273430-A69C-4E14-AB82-28F33BC2BFE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train", "Train\Train.csproj", "{C97467B4-B44F-46EB-BBCE-EC11CDE2FC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{62273430-A69C-4E14-AB82-28F33BC2BFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62273430-A69C-4E14-AB82-28F33BC2BFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62273430-A69C-4E14-AB82-28F33BC2BFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97467B4-B44F-46EB-BBCE-EC11CDE2FC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97467B4-B44F-46EB-BBCE-EC11CDE2FC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97467B4-B44F-46EB-BBCE-EC11CDE2FC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97467B4-B44F-46EB-BBCE-EC11CDE2FC0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
