@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train", "Train\Train.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructAndClass", "StructAndClass\StructAndClass.csproj", "{8710C6E4-ECA2-4605-88C1-DF6F84E47CDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{EAB0648B-DF99-4F0B-BEE2-2A82F417CB8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{8710C6E4-ECA2-4605-88C1-DF6F84E47CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8710C6E4-ECA2-4605-88C1-DF6F84E47CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8710C6E4-ECA2-4605-88C1-DF6F84E47CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAB0648B-DF99-4F0B-BEE2-2A82F417CB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB0648B-DF99-4F0B-BEE2-2A82F417CB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB0648B-DF99-4F0B-BEE2-2A82F417CB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB0648B-DF99-4F0B-BEE2-2A82F417CB8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
