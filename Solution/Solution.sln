@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumColor", "EnumColor\EnumColor.csproj", "{B815EDA7-BA64-4AA2-8536-057738809EE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accountant", "Accountant\Accountant.csproj", "{D800771C-FE22-4F74-B1D2-FC4BF1D6FE6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{B815EDA7-BA64-4AA2-8536-057738809EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B815EDA7-BA64-4AA2-8536-057738809EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B815EDA7-BA64-4AA2-8536-057738809EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D800771C-FE22-4F74-B1D2-FC4BF1D6FE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D800771C-FE22-4F74-B1D2-FC4BF1D6FE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D800771C-FE22-4F74-B1D2-FC4BF1D6FE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D800771C-FE22-4F74-B1D2-FC4BF1D6FE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
