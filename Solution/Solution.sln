@@ -57,7 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumColor", "EnumColor\Enum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accountant", "Accountant\Accountant.csproj", "{D800771C-FE22-4F74-B1D2-FC4BF1D6FE6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{E4D6977A-C5D7-42C2-8734-8A6DE3E1F359}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesExample", "MathOperations\DelegatesExample.csproj", "{E4D6977A-C5D7-42C2-8734-8A6DE3E1F359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
