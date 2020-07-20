@@ -4,7 +4,7 @@ namespace User
 {
     class User
     {
-        string login, name, familyname;
+        string login, name, familyName;
         int age;
         public readonly DateTime date;
 
@@ -30,14 +30,14 @@ namespace User
             }
         }
 
-        public string Familyname
+        public string FamilyName
         {
-            set { familyname = value; }
+            set { familyName = value; }
             get
             {
-                if (familyname == null)
+                if (familyName == null)
                     return "The field is not filled";
-                return familyname;
+                return familyName;
             }
         }
 
@@ -60,7 +60,7 @@ namespace User
         {
             this.login = login;
             this.name = name;
-            this.familyname = familyname;
+            this.familyName = familyname;
             this.age = old;
             date = DateTime.Now;
         }
