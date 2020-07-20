@@ -22,8 +22,6 @@ namespace Dictionary
             {
                 Console.WriteLine(dictionary[i]);
             }
-
-            Console.ReadKey();
         }
     }
 }
