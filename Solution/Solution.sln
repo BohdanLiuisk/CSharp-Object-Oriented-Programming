@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary2", "Dictionary2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPCalculator", "MVPCalculator\MVPCalculator.csproj", "{4F0B43A9-47DB-4319-9DE1-510231FC86D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVPStopwatch", "MVPStopwatch\MVPStopwatch.csproj", "{CD542BE6-B72F-4ADD-8852-0C07788FB1E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{4F0B43A9-47DB-4319-9DE1-510231FC86D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F0B43A9-47DB-4319-9DE1-510231FC86D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F0B43A9-47DB-4319-9DE1-510231FC86D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD542BE6-B72F-4ADD-8852-0C07788FB1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD542BE6-B72F-4ADD-8852-0C07788FB1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD542BE6-B72F-4ADD-8852-0C07788FB1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD542BE6-B72F-4ADD-8852-0C07788FB1E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
