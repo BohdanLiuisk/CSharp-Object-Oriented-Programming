@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Address", "FirstApp\Address.csproj", "{2E55452E-B7AF-4CB8-AEFE-9625987282B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Addres", "FirstApp\Addres.csproj", "{2E55452E-B7AF-4CB8-AEFE-9625987282B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{872615CF-1243-4B11-8CD0-C2E7DD1F0A84}"
 EndProject
